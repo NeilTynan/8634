@@ -16,7 +16,7 @@ In line with the assessment guide for this course, this project intends to:
 
 ## Use of this Project
 
-
+This repository may be of some interest to other students engaged in similar projects around the PalmerPenguins dataset. Feel free to use whatever you like from it (though if another party has been referenced, I would ask that you likewise cite them).
 
 The workbook has a Google collab page, which is freely accessible for all interested parties.
 <a target="_blank" href="https://colab.research.google.com/github/NeilTynan/8634/blob/main/penguins.ipynb">
